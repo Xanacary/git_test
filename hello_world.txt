@@ -1,1 +1,2 @@
 ECHO is on.
+This is a greeting from the future greatest coder and programmer ever. 
